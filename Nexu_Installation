@@ -3,7 +3,7 @@ Follow the below Steps to install Nexus
 Create a server
   -> Create EC2 instance (T2 Medium) and enable 8081 port in the respective security group 
 
-Install Openjdk1.8 
+Install Openjdk 1.8 
   -> sudo yum install java-1.8.0-openjdk
 
 Download the Nexus Zip file
