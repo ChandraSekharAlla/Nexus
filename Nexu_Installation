@@ -4,7 +4,7 @@ Create a server
   -> Create EC2 instance (T2 Medium) and enable 8081 port in the respective security group 
 
 Install Openjdk1.8 
-  -> sudo yum install java-1.8.0-amazon-corretto
+  ->  sudo yum install java-1.8.0-openjdk
 
 Download the Nexus Zip file
   -> cd /opt
